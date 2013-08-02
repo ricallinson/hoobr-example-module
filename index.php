@@ -1,5 +1,5 @@
 <?php
-namespace php_require\hoobr_default;
+namespace php_require\hoobr_example_module;
 
 /*
     Imported library modules.
