@@ -1,0 +1,2 @@
+hoobr-example-module
+====================
